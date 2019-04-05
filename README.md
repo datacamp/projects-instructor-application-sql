@@ -1,5 +1,5 @@
 # projects-instructor-application-sql
-The audition portions of the application process for becoming a project instructor
+The audition portion of the application process for becoming a project instructor
 
 See this [Intercom article](https://instructor-support.datacamp.com/projects/the-application-process-for-becoming-a-project-instructor) for a full description.
 
