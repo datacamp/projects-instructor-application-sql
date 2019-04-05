@@ -10,7 +10,5 @@ There are some packages you need to be able to create DataCamp projects locally.
 *You might need to change pip into pip3 depending on how you installed Python.*
 
 ```
-pip install nose
-pip install git+https://github.com/datacamp/ipython_nose
 pip install ipython-sql
 ```
